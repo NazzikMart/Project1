@@ -1,0 +1,18 @@
+.nastiaBlock{
+    background-color: rgb(233, 51, 202);
+    height: 500px;
+    border-radius: 60px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nBlock{
+    padding-top: 50px;
+    border-radius: 60px;
+}
+.naBlock{
+    color: white;
+    font-size: 40px;
+    font-weight: bolder;
+}
